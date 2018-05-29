@@ -1,6 +1,6 @@
 {
   "name": "apple-pay",
-  "app_id": "",
+  "app_id": "735329a4",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
